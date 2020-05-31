@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324095676140",
+    "firebase_url": "https://mylocations-de23d.firebaseio.com",
+    "project_id": "mylocations-de23d",
+    "storage_bucket": "mylocations-de23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324095676140:android:981fa198f5b20136975fc9",
+        "android_client_info": {
+          "package_name": "com.defuj.mylocations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324095676140-r7k92lgfhbpeunlmd9eadis3nf6lp9ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3-N_C690CSW4Fs12zHaJ7tCV_ZbguXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324095676140-r7k92lgfhbpeunlmd9eadis3nf6lp9ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.pedant.SweetAlert"
+    android:versionCode="6"
+    android:versionName="1.5.1">
+
+    <application />
+
+</manifest>
